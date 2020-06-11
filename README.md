@@ -89,7 +89,7 @@ curl -X GET \
 - There're two ways to get a Long-Lived Token:
   - Using Token Generator
 
-![alt_img](https://imgur.com/d2vumwZ)
+![alt_img](https://imgur.com/d2vumwZ.png)
 
   - Using the following Bash script. Refer [get_long_lived_token.sh](get_long_lived_token.sh)
 
