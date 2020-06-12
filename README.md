@@ -4,7 +4,7 @@ This is the Instagram authentication example scripts
 # Instagram Authentication Steps
 
 ## Authenticate the test user
-- Before starting following steps, please refer this [Gist link]().
+- Before starting following steps, please refer this [Gist link](https://gist.github.com/peter279k/1c3ed14473b8055057d0213d759e92ed).
 - We assume that you've registered Facebook App ID and enable the completed Instagram Basic Display ID features.
 - Please refer and run [auth_test_user.sh](auth_test_user.sh).
 
